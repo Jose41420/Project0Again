@@ -11,7 +11,7 @@ public class Main {
         Scanner scnr = new Scanner(System.in);
 
         // options for what to do when run
-        System.out.println("Enter command or enter nothing to start");
+        System.out.println("Enter command or enter nothing to start the program");
 
         String command = scnr.nextLine();
         // clear .txt files
